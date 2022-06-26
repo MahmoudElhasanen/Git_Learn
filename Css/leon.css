@@ -6,6 +6,7 @@
     --section-background: #f6f6f6;
     --paragraph-color: #777;
     --main-duration: 0.3s;
+    --main-border:1px solid red;	
 }
 
 /* end vasriables */
